@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmCirculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCuadrado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDecagono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDeltoide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmElipse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEneagono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHeptagono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHexagono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOctagono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOvalo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPentagono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrinc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRectangulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRombo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRomboide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTrapecio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTrapecioI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTrapezoide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTriangulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
