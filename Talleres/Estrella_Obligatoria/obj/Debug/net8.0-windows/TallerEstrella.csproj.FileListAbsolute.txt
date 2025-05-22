@@ -1,0 +1,16 @@
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\obj\Debug\net8.0-windows\TallerEstrella.FrmEstrella.resources
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\obj\Debug\net8.0-windows\TallerEstrella.csproj.GenerateResource.cache
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\obj\Debug\net8.0-windows\TallerEstrella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\obj\Debug\net8.0-windows\TallerEstrella.AssemblyInfoInputs.cache
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\obj\Debug\net8.0-windows\TallerEstrella.AssemblyInfo.cs
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\obj\Debug\net8.0-windows\TallerEstrella.csproj.CoreCompileInputs.cache
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\bin\Debug\net8.0-windows\TallerEstrella.exe
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\bin\Debug\net8.0-windows\TallerEstrella.deps.json
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\bin\Debug\net8.0-windows\TallerEstrella.runtimeconfig.json
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\bin\Debug\net8.0-windows\TallerEstrella.dll
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\bin\Debug\net8.0-windows\TallerEstrella.pdb
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\obj\Debug\net8.0-windows\TallerEstrella.dll
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\obj\Debug\net8.0-windows\refint\TallerEstrella.dll
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\obj\Debug\net8.0-windows\TallerEstrella.pdb
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\obj\Debug\net8.0-windows\TallerEstrella.genruntimeconfig.cache
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\TallerEstrella\obj\Debug\net8.0-windows\ref\TallerEstrella.dll
