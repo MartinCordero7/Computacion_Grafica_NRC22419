@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Community\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Community\TallerEstrella\TallerEstrella\obj\Debug\Vnetanas.FrmHome.resources
+C:\Users\USER\Documents\Visual Community\TallerEstrella\TallerEstrella\obj\Debug\Figuras.frmStar1.resources
+C:\Users\USER\Documents\Visual Community\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Community\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Community\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Community\TallerEstrella\TallerEstrella\bin\Debug\TallerEstrella.exe.config
+C:\Users\USER\Documents\Visual Community\TallerEstrella\TallerEstrella\bin\Debug\TallerEstrella.exe
+C:\Users\USER\Documents\Visual Community\TallerEstrella\TallerEstrella\bin\Debug\TallerEstrella.pdb
+C:\Users\USER\Documents\Visual Community\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.exe
+C:\Users\USER\Documents\Visual Community\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.pdb
