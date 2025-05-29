@@ -1,0 +1,34 @@
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Reproductor.resources
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\MONAVITOLA\Documents\SEMESTRE\GRAFICA\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Reproductor.resources
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\USER\Documents\Visual Community\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

@@ -1,0 +1,81 @@
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.exe
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.deps.json
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.runtimeconfig.json
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.dll
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.pdb
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.Properties.Resources.resources
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.Reproductor.resources
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.GenerateResource.cache
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.AssemblyInfoInputs.cache
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.AssemblyInfo.cs
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.dll
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\refint\Proyecto1.dll
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.pdb
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.genruntimeconfig.cache
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\ref\Proyecto1.dll
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.Up2Date
+C:\Users\MONAVITOLA\Downloads\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\musica\musica.mp3
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.dll
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\refint\Proyecto1.dll
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.pdb
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.exe
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\musica\musica.mp3
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.deps.json
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.runtimeconfig.json
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.dll
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.pdb
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.Properties.Resources.resources
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.Reproductor.resources
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.AssemblyInfo.cs
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.Up2Date
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.genruntimeconfig.cache
+C:\Users\USER\Desktop\Formulario\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\ref\Proyecto1.dll
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.exe
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\musica\musica.mp3
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.deps.json
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.runtimeconfig.json
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.dll
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\Proyecto1.pdb
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.Properties.Resources.resources
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.Reproductor.resources
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.GenerateResource.cache
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.AssemblyInfoInputs.cache
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.AssemblyInfo.cs
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.csproj.Up2Date
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.dll
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\refint\Proyecto1.dll
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.pdb
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\Proyecto1.genruntimeconfig.cache
+C:\Users\Lenovo LOQ\Desktop\Formulario\Formulario\WinFormsApp1\obj\Debug\net8.0-windows\ref\Proyecto1.dll
